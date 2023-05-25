@@ -21,7 +21,7 @@ The main page contains a press start button to allow users starts their journey!
 After pressing start, a page that contains 3 sections will show, users can choose one of these sections to discover in depth.
 <img src="https://github.com/AhadAlsulami/spacedout/assets/99281844/16201ea9-8ffe-4bc5-b9fc-0a0b3c78d020" width="550">
 
-
+_____________________________________
 ##### ✧ 1. Planets
 The first section is about the solar system planets, users can enter their age and weight to see how it vary on different plamets.  
 <img src="https://github.com/AhadAlsulami/spacedout/assets/99281844/039d7bbd-27e7-47ca-9315-ae2373c61170" width="550">
