@@ -13,39 +13,49 @@ The application allows the user to select which section they are interested in d
 
 ## Screenshots
 #### ✧ Main page 
-Our bikeshare data analysis program provides an interactive user experience that allows users to see their needs, making it easy to quickly find answers to specific questions.
-
-The first four images show different parts of the user interface, where users can choose the city, month, day of the week, or combination of these options to analyze.
-
-<img src="![image]([https://github.com/AhadAlsulami/spacedout/assets/99281844/1b88ebce-62cc-4c6b-a204-42a816351d3b](https://github-production-user-asset-6210df.s3.amazonaws.com/99281844/240430785-1b88ebce-62cc-4c6b-a204-42a816351d3b.png))" width="550">
-
-<img src="https://user-images.githubusercontent.com/99281844/236468782-991fdc73-3cf4-4640-bdab-60911fe697f2.png" width="550">
-
-<img src="https://user-images.githubusercontent.com/99281844/236468969-85756cf2-b35f-421c-8a92-8a7b48bf0973.png" width="550">
-
-<img src="https://user-images.githubusercontent.com/99281844/236469339-42f98806-11c6-4e40-8bf8-dfad34037940.png" width="550">
-
+The main page contains a press start button to allow users starts their journey! 🚀
+<img src="https://github.com/AhadAlsulami/spacedout/assets/99281844/d0f0cbca-6fdf-40be-85ed-3641676eb12a" width="550">
 
 
 #### ✧ Sections
-Once the user enters the desired options, the program calculates statistics and provides insightful analysis based on the user's choices. 
-
-The next two images show different parts of the analysis results. The program presents the data in a clear and easy-to-understand format, making it simple to draw meaningful conclusions.
-
-<img src="https://user-images.githubusercontent.com/99281844/236469828-622d1227-ba8b-4d78-a4aa-5a5134e42649.png" width="550">
-
-<img src="https://user-images.githubusercontent.com/99281844/236470020-9c1dbb09-b277-4d27-879e-73a26faef207.png" width="550">
+After pressing start, a page that contains 3 sections will show, users can choose one of these sections to discover in depth.
+<img src="https://github.com/AhadAlsulami/spacedout/assets/99281844/16201ea9-8ffe-4bc5-b9fc-0a0b3c78d020" width="550">
 
 
+##### ✧ 1. Planets
+The first section is about the solar system planets, users can enter their age and weight to see how it vary on different plamets.  
+<img src="https://github.com/AhadAlsulami/spacedout/assets/99281844/039d7bbd-27e7-47ca-9315-ae2373c61170" width="550">
 
-#### ✧ 1. Planets
-The last image shows how the program asks the user if they want to see a part of the dataset. This feature allows users to explore the data and see the details behind the analysis, making it easy to verify the accuracy of the results.
+Age calculations:  
+<img src="https://github.com/AhadAlsulami/spacedout/assets/99281844/79d887a9-5ff2-4830-ba39-78011da8ec81" width="550">
 
-<img src="https://user-images.githubusercontent.com/99281844/236470268-69f56ef7-1da0-4e39-965f-24c2ea5f2b0a.png" width="550">
+Weight calculations:  
+<img src="https://github.com/AhadAlsulami/spacedout/assets/99281844/3313b41f-a525-46e3-b95e-9a4cc788fb43" width="550">
 
-#### ✧ 2. Constellation 
 
-#### ✧ 3. Observatories 
+_____________________________________
+
+##### ✧ 2. Constellation 
+The second section is all about the constellation, I provided three constellation to discover (Big Dipper - Draco - Cepheus)
+users will choose one of them and play a simple dot connected game, as the dots represent stars and when they are connected together 
+they form a constellation, after connecting the dots users will press check to see if they form the constellation right
+and to see some facts about it.  
+<img src="https://github.com/AhadAlsulami/spacedout/assets/99281844/2dd7abe5-7ab2-4bc5-9d3f-5b5865b8b747" width="550">  
+
+An example of Big Dipper constellation:
+<img src="https://github.com/AhadAlsulami/spacedout/assets/99281844/dc6be549-bc2e-4367-806f-ea961687d54b" width="550">  
+
+<img src="https://github.com/AhadAlsulami/spacedout/assets/99281844/31775c9e-44c3-47c2-8dd1-5c222aee72c8" width="550">  
+
+<img src="https://github.com/AhadAlsulami/spacedout/assets/99281844/837ae2c1-1ed4-4e38-bcbd-b68a2a2ada7f" width="550">  
+
+_____________________________________
+##### ✧ 3. Observatories 
+Last section focuses on learning facts about different observatories in MCQs form, after selecting the answers they will press check 
+to see if the got it right or not.  
+<img src="https://github.com/AhadAlsulami/spacedout/assets/99281844/b2c928bf-b7b4-4747-bed1-7edbd11dd6b2" width="550">  
+
+<img src="https://github.com/AhadAlsulami/spacedout/assets/99281844/78c6eb58-c3ef-4195-8eed-fa34b440d325" width="550">
 
 ## Credits
 This project was created by Ahad Alsulami (me) as part of Object-Oriented Programming with Java Course at University of Jeddah.
