@@ -25,8 +25,7 @@ All the resources used for this project, including illustrations and scientific 
 #### ✧ Sections
 Upon clicking "press start," users will be directed to a page with three sections to choose from.  
 Each section offers unique and exciting information to explore.  
-<img src="![image](https://github.com/AhadAlsulami/spacedout/assets/99281844/89032f3f-7f57-42a6-9703-a3a4ed1ce1d3)
-" width="550">
+<img src="https://github.com/AhadAlsulami/spacedout/assets/99281844/89032f3f-7f57-42a6-9703-a3a4ed1ce1d3" width="550">
 
 _____________________________________
 #### ✧ 1. Planets
